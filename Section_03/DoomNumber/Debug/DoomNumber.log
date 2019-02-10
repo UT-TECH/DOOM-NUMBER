@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\utkar\source\repos\section_03\doomnumber\main.cpp(37): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\utkar\source\repos\section_03\doomnumber\main.cpp(114): warning C4715: 'GetInput': not all control paths return a value
+c:\users\utkar\source\repos\section_03\doomnumber\main.cpp(84): warning C4715: 'GetNumberOfPlayers': not all control paths return a value
+  DoomNumber.vcxproj -> C:\Users\utkar\source\repos\Section_03\Debug\DoomNumber.exe

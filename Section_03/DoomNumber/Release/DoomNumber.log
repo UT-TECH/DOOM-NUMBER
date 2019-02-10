@@ -1,0 +1,9 @@
+﻿  FDoomNumber.cpp
+  Main.cpp
+c:\users\utkar\source\repos\section_03\doomnumber\main.cpp(37): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+c:\users\utkar\source\repos\section_03\doomnumber\main.cpp(114): warning C4715: 'GetInput': not all control paths return a value
+c:\users\utkar\source\repos\section_03\doomnumber\main.cpp(84): warning C4715: 'GetNumberOfPlayers': not all control paths return a value
+  All 123 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DoomNumber.vcxproj -> C:\Users\utkar\source\repos\Section_03\Release\DoomNumber.exe
